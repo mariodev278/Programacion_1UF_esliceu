@@ -13,5 +13,11 @@ Aqui esta toda la teoria que es necesaria saber para cuando llegue el examen
 
 
 https://docs.google.com/document/d/1avelYyFPmrOCwKSFztahboYvlmLaIJ0RUxYOJ6k3zWU/edit?usp=sharing
+> [!CAUTION]
+>  **(Solo podras entrar desde una cuenta de @esliceu.net)**
 
-### **(Solo podras entrar desde una cuenta de @esliceu.net)**
+
+
+# My stats
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dracula)
+
