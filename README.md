@@ -1,5 +1,9 @@
 # Programacion_1UF
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
 Aqui estara todo el codigo necesario que se tendra que saber para aprobar el examen, esto consta de x ejercicios (cuando termine lo dire)
 
 
